@@ -4,3 +4,5 @@
 - Tugas 4 Kelas & Objek
 - Tugas 5 Relasi Kelas
 - Tugas 6 Inheritance
+- Tugas 7 Kelas Abstrak dan Interface
+- Tugas 8 Polymorph
